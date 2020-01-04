@@ -14,17 +14,19 @@ and decompress text files using Huffman encoding.
 3. The compression ratio.
 4. The execution time.
 
-### run huffman.py
-## Part (A) – Compression
+## Part (A) – Compression 
+(>>>huffman.py)
 You must build the Huffman tree andassign a Huffman code 
 for each character. Your output is the compressed file,
 compression ratio and the codes used to compress the file.
 
-## Part (B) - Decompression
+## Part (B) - Decompression 
+(>>>huffman.py)
 You must read the file header and then the file must then
 be decompressed (returned to its original format).
 
+
 ## Part (C) - Compression and decompression of folders
-### run either huffman_multiple_files_not_tested_v1.py or \_v2.py
+(>>>huffman_multiple_files_not_tested_v1.py or \_v2.py)
 You must read folder with files in it compress and remove them,
 then decompress them back to their original state.
